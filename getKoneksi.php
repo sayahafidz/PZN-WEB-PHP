@@ -3,7 +3,7 @@ function getKoneksi(): PDO
 {
     $host = 'localhost';
     $port = 3306;
-    $database = 'php_mysqlf';
+    $database = 'php_mysql';
     $username = 'root';
     $password = 'root';
 
